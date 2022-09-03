@@ -13,3 +13,16 @@ Join STRPWFL Roleplay via https://www.strpwfl.nl/
 ![faswan4](https://user-images.githubusercontent.com/28997723/188271106-ab43e25d-64c2-4918-9aa8-77f56c0400c1.jpg)
 ![faswan5](https://user-images.githubusercontent.com/28997723/188271107-425bb504-7caf-44e8-9835-98b55dafd816.jpg)
 ![faswan3](https://user-images.githubusercontent.com/28997723/188271112-4df13ed1-e6d4-49fb-a2cc-f2ed85d5d995.jpg)
+
+<b>Hypnonema settings:</b>
+Position X: -1685.016
+Position Y: -930.5
+Position Z: 17
+
+Rotation X: 0
+Rotation Y: 39.99
+Rotation Z: 0
+
+Scale X: -0.4314
+Scale Y: 0.248054981
+Scale Z: 1
