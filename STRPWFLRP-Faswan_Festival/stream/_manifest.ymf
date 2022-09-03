@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>fasmanfestival</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>faswanstage</Item>
+        <Item>faswanbooth</Item>
+        <Item>faswanstagebars</Item>
+        <Item>faswanbanners</Item>
+        <Item>faswanramp</Item>
+        <Item>ba_prop_battle_dj</Item>
+        <Item>sf_prop_sf_interior</Item>
+        <Item>v_electrical</Item>
+        <Item>h4_prop_h4_dj</Item>
+        <Item>v_fences</Item>
+        <Item>sf_prop_sf_music_equipment</Item>
+        <Item>int_corporate</Item>
+        <Item>v_garden</Item>
+        <Item>sf_prop_sf_rec_studio</Item>
+        <Item>v_seating_tables</Item>
+        <Item>lev_des</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>hei_sm_23_critical_0</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>v_traffic_lights</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
